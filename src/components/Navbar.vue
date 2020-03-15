@@ -20,14 +20,6 @@
             <a href="#">List</a>
         </router-link>
 
-        <router-link 
-            tag="li" 
-            to="/tasks"
-            active-class="active"
-        >
-            <a href="#">Tasks</a>
-        </router-link>
-
       </ul>
     </div>
   </nav>
